@@ -1,5 +1,4 @@
 
-```markdown
 # Prothom Alo News Crawler, Summarizer, and Text-to-Speech Converter
 
 ## Overview
@@ -40,8 +39,8 @@ pip install requests beautifulsoup4 torch transformers numpy scikit-learn gtts p
    Clone this repository to your local machine.
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/mdzubayerhossain/prothomalo_news_crawler_summarizer_tts.git
+   cd prothomalo_news_crawler_summarizer_tts
    ```
 
 2. **Install Dependencies**: 
@@ -90,7 +89,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com].
+For any questions or feedback, please reach out to [mdzubayerhossainpatowari@gmail.com].
 ```
 
-Feel free to replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the directory name, respectively. Also, update the contact email with your actual email address.
+Feel free to replace `https://github.com/mdzubayerhossain/prothomalo_news_crawler_summarizer_tts.git` and `prothomalo_news_crawler_summarizer_tts` with the actual URL of your repository and the directory name, respectively. Also, update the contact email with your actual email address.
